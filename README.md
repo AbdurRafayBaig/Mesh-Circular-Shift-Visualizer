@@ -4,7 +4,7 @@ An interactive web application that simulates and visualizes the **circular q-sh
 
 ## 🚀 Live Demo
 
-🔗 **[Live Deployment URL]** — *(to be added after deployment)*
+mesh-circular-shift-visualizer-blue.vercel.app
 
 ## 📖 Overview
 
